@@ -4,4 +4,6 @@ Tässä olisi linkki millä pääsee katsomaan visualisaatiota:
 
 https://public.tableau.com/app/profile/adham.naderi/viz/PersonalProject-Covid19/CovidProject
 
-![Covid Table Screenshot](/Covid Tableau.JPG)
+<div align="center">
+    <img src="/Covid Tableau.JPG" width="400px"</img> 
+</div>
